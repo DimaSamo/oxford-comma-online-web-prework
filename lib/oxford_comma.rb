@@ -11,5 +11,6 @@ def oxford_comma(array)
       end
     end
   end
+  new_array
 
 end
